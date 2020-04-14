@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "701296462832",
+    "firebase_url": "https://textme-aae53.firebaseio.com",
+    "project_id": "textme-aae53",
+    "storage_bucket": "textme-aae53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701296462832:android:1f511e50d29603efa46b35",
+        "android_client_info": {
+          "package_name": "com.example.textme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701296462832-m7pau0q235r3mc8be8tn6hpbp0p5n1pv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzMsu3yYsCp9MgTEz8rBlplVK4h5h-Pzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701296462832-m7pau0q235r3mc8be8tn6hpbp0p5n1pv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

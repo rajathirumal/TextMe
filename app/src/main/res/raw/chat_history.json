@@ -1,0 +1,40 @@
+{
+  "text_me_users" : {
+    "343qui556odTqWGT0s3YZVXC3Ax2" : {
+      "my_friends" : {
+        "BEZojtqp6gWrBedew6ZoK2neVJb2" : "user one",
+        "T52PA1q0PrcojmA6V5n19PQlvJz1" : "user two"
+      },
+      "user_details" : {
+        "-M3_O78jiHLyTaCB9_uf" : {
+          "createdDate" : "29-03-2020",
+          "createdTime" : "13:54:36",
+          "userName" : "Raja Thirumal"
+        }
+      }
+    },
+    "BEZojtqp6gWrBedew6ZoK2neVJb2" : {
+      "user_details" : {
+        "-M3_OEIec6-Qs9DDEW_U" : {
+          "createdDate" : "29-03-2020",
+          "createdTime" : "13:55:05",
+          "userName" : "user one"
+        }
+      }
+    },
+    "T52PA1q0PrcojmA6V5n19PQlvJz1" : {
+      "user_details" : {
+        "-M3_OMLvpH5wY5mwxv44" : {
+          "createdDate" : "29-03-2020",
+          "createdTime" : "13:55:38",
+          "userName" : "user two"
+        }
+      }
+    },
+    "all_users" : {
+      "343qui556odTqWGT0s3YZVXC3Ax2" : "Raja Thirumal",
+      "BEZojtqp6gWrBedew6ZoK2neVJb2" : "user one",
+      "T52PA1q0PrcojmA6V5n19PQlvJz1" : "user two"
+    }
+  }
+}
