@@ -125,11 +125,11 @@ public class AddFriends extends AppCompatActivity implements AdapterView.OnItemC
                                                     allUsersAdapter.notifyDataSetChanged();
                                                 }
                                             }
-
                                             @Override
                                             public void onCancelled(@NonNull DatabaseError databaseError) {
                                             }
                                         });
+                                allUsersAdapter.notifyDataSetChanged();
                                 allUsersAndUID.put((String) d.getValue(), d.getKey());
                             }
 
